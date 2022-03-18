@@ -33,3 +33,4 @@ def invertirDigitos(numero,p1,p2):
         cont2-=1
     return(resultado)
 print(invertirDigitos(1230,1,4))
+print("Modificando el archivo por primera vez")
